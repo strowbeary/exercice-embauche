@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d692ce75-3deb-47f1-b59d-e1ab8ee821b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/list-to-database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/database_adapter.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ewwuxu3h" />
+  </component>
+  <component name="ProjectId" id="1hotQlQHlG18puRXhgXM3lQtuCR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="c60f0b36-0d16-4dfb-95ee-dc82531eb9c7" />
+    <property name="database.data.extractors.current.id" value="c60f0b36-0d16-4dfb-95ee-dc82531eb9c7" />
+    <property name="grid.search.filter.rows" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/remicaillot/Projets/exercice-embauche/list-to-database/src/database_adapter.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="database.data.csv.formats" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="CargoCommandRunConfiguration" factoryName="Cargo Command" nameIsGenerated="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run carte-des-pharmacies-de-paris.csv" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d692ce75-3deb-47f1-b59d-e1ab8ee821b9" name="Default Changelist" comment="" />
+      <created>1600689258351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600689258351</updated>
+      <workItem from="1600689259413" duration="8588000" />
+      <workItem from="1600780204167" duration="38000" />
+      <workItem from="1600786618504" duration="1578000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600778291166">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600778291166" />
+    <state width="1638" height="290" key="GridCell.Tab.0.bottom" timestamp="1600804079658">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1600804079658" />
+    <state width="1638" height="290" key="GridCell.Tab.0.center" timestamp="1600804079656">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1600804079656" />
+    <state width="1638" height="290" key="GridCell.Tab.0.left" timestamp="1600804079655">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1600804079655" />
+    <state width="1638" height="290" key="GridCell.Tab.0.right" timestamp="1600804079657">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="290" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1600804079657" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1600690119629">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1600690119629" />
+    <state x="0" y="199" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1600690206434">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="0" y="199" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/0.0.1680.1050@0.0.1680.1050" timestamp="1600690206434" />
+    <state x="428" y="187" key="editAsTableFormatDialogDimension" timestamp="1600690250222">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="428" y="187" key="editAsTableFormatDialogDimension/0.0.1680.1050@0.0.1680.1050" timestamp="1600690250222" />
+  </component>
+</project>

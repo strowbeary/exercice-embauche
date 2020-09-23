@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+	"app",
+	"db-connector",
+	"rest-api",
+	"core"
+]
+default-members = [
+	"app"
+]
